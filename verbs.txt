@@ -1,0 +1,10 @@
+to search:mirar,buscar
+to play:jugar
+to be:ser,estar
+to run:correr
+to make:hacer
+to talk:hablar
+to take:tomar
+to study:estudiar
+to arrive:llegar
+to practice:practicar
